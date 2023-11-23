@@ -1,0 +1,22 @@
+{
+  "nama": "Dian Arista",
+  "usia": 25,
+  "makanan_favorit": ["oseng pare", "nasi bakar", "es krim"],
+  "riwayat_pendidikan": {
+    "SD": {
+      "nama_sekolah": "SDN Sidokare 1",
+      "tahun_masuk": 2004,
+      "tahun_lulus": 2010
+    },
+    "SMP": {
+      "nama_sekolah": "SMPN 1",
+      "tahun_masuk": 2010,
+      "tahun_lulus": 2013
+    },
+    "SMA": {
+      "nama_sekolah": "Madrasah Aliyah NU Sidoarjo",
+      "tahun_masuk": 2013,
+      "tahun_lulus": 2016
+    }
+  }
+}

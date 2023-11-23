@@ -1,0 +1,9 @@
+{
+	"username":"shp_zoro",    	// (string) Nama pengguna
+	"kode_bank":"009",			// (string) Kode bank tujuan
+	"rek_tujuan":"1234567",		// (string) Nomor rekening tujuan
+	"amount":500000,			// (int) Jumlah yang dibayarkan
+	"notes":"bayar hutang",		// (string) Catatan pembayaran
+	"pin_transaksi":"123456",	// (string) Pin transaksi pengguna
+
+}

@@ -1,0 +1,15 @@
+{
+	"status":200,							
+	"message":"success",
+	"transaction_detail":{
+		"rek_tujuan":"1234567",				// (string) Nomor rekening tujuan
+		"nama_penerima":"bagus fibrianto",	// (string) Nama penerima
+		"kode_bank":"009",					// (string) Kode bank tujuan
+		"nama_bank":"BNI",					// (string) Nama bank tujuan
+		"amount":500000,					// (int) Jumlah yang dibayarkan
+		"admin_fee":0,						// (int) Biaya admin yang dikeluarkan untuk mengirim uang
+		"notes":"bayar_hutang"				// (string) Catatan pembayaran
+		"journal":"2020031211120500199",	// (string) Jurnal transaksi pembayaran
+		"timestamp":"2020-03-12T11:12:05"	// (timestamp) Tanggal dan waktu berhasil melakukan transaksi
+	}
+}
